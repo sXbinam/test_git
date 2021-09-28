@@ -3,9 +3,5 @@ testing
 
 added from mac
 
-
-for conflict
-
 added from ubuntu for conflict
-
 
